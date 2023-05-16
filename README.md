@@ -36,4 +36,7 @@ Open Source Class - django_project - Wiki-Log Website
 - 로컬에서의 접속 : http://127.0.0.1:8000/admin/
 - 외부에서의 접속 : https://jiwonchoe.pythonanywhere.com/admin/
 
+## 🖥 로컬에서 접속 방법
+- Python 가상환경 실행 `source myvenv/bin/activate`
+- 서버 시작하기 `python manage.py runserver`
 
