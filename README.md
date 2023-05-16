@@ -33,3 +33,7 @@ Open Source Class - django_project - Wiki-Log Website
 #### 관리자 페이지 
 - 게시글 추가 및 수정 기능
 - 다른 사용자에게 인증 및 권한 부여 기능
+- 로컬에서의 접속 : http://127.0.0.1:8000/admin/
+- 외부에서의 접속 : https://jiwonchoe.pythonanywhere.com/admin/
+
+
